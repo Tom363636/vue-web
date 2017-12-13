@@ -1,2 +1,2 @@
 # vue-web
-test for vue strudy
+test for vue study
